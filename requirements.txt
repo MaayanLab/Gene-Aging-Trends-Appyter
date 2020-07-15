@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 umap-learn
 pandas
+pycombat
+seaborn
+scipy
